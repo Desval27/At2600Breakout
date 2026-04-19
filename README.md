@@ -3,11 +3,11 @@
 ![Rendered PCB Image](hardware/At2600Breakout.png)
 
 ## Ready to Order Gerber Files
-[Default](hardware/gerber_to_order/At2600Breakout_22.86x35.56mm_for_Default.zip)
-[Elecrow](hardware/gerber_to_order/At2600Breakout_22.86x35.56mm_for_Elecrow.zip)
-[FusionPCB](hardware/gerber_to_order/At2600Breakout_22.86x35.56mm_for_FusionPCB.zip)
-[JLCPCB](hardware/gerber_to_order/At2600Breakout_22.86x35.56mm_for_JLCPCB.zip)
-[PCBWay](hardware/gerber_to_order/At2600Breakout_22.86x35.56mm_for_PCBWay.zip)
+- [Default](hardware/gerber_to_order/At2600Breakout_22.86x35.56mm_for_Default.zip)
+- [Elecrow](hardware/gerber_to_order/At2600Breakout_22.86x35.56mm_for_Elecrow.zip)
+- [FusionPCB](hardware/gerber_to_order/At2600Breakout_22.86x35.56mm_for_FusionPCB.zip)
+- [JLCPCB](hardware/gerber_to_order/At2600Breakout_22.86x35.56mm_for_JLCPCB.zip)
+- [PCBWay](hardware/gerber_to_order/At2600Breakout_22.86x35.56mm_for_PCBWay.zip)
 
 ## ⚠️ Disclaimer
 
