@@ -1,4 +1,4 @@
-##Breadboard Friendly Breakout Board for Atari™ 2600 Cartridges##
+# Breadboard Friendly Breakout Board for Atari&trade; 2600 Cartridges
 
 ![Rendered PCB Image](hardware/At2600Breakout.png)
 
