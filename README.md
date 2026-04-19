@@ -1,4 +1,4 @@
-#WIP#
+##Breadboard Friendly Breakout Board for Atari™ 2600 Cartridges##
 
 ![Rendered PCB Image](hardware/At2600Breakout.png)
 
